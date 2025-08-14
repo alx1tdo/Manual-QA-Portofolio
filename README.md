@@ -12,7 +12,7 @@ To demonstrate my testing methodology, attention to detail, and ability to enhan
 
 ## Included Test Reports
 - **Elden Ring Nightreign**  ✔️
-- **Battlefield 6** (In Progress) 🔧
+- **Battlefield 6**  ✔️
 - **PEAK** (In Progress) 🔧
 - **Star Wars: The Old Republic** (In Progress) 🔧
 
